@@ -1,5 +1,5 @@
 # proximity-sensor-example-android
-Proximity Sensor Example Using Android
+Proximity Sensor Example (Android)
 
 # Software Requirement
 - Programming Language : Java
